@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/home/csec/Documents/Development/hello_template/templates/public";
+/******/ 	__webpack_require__.p = "/home/csec/Documents/Development/reflongo_template/templates/public";
 /******/
 /******/
 /******/ 	// Load entry module and return exports

@@ -1,9 +1,9 @@
 from flask import render_template, Blueprint
 
-hello_blueprint = Blueprint('hello',__name__)
+reflongo_blueprint = Blueprint('reflongo',__name__)
 
-@hello_blueprint.route('/')
-@hello_blueprint.route('/hello')
+@reflongo_blueprint.route('/')
+@reflongo_blueprint.route('/reflongo')
 
 
 def index():

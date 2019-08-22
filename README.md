@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# A Template for Creating a Full Stack Web Application with Flask, NPM, Webpack and Reactjs
-
-## About
-This is a **Reflongo!** web app template written in Python-Flask for the back end and React-JS for the front end. You can use this starter files as a template for your own web app projects.
-
-## How I Did It!
-You can find a walkthrough of how I build this application from scratch on [my blog](https://medium.com/@tonyparkerkenz/a-template-for-creating-a-full-stack-web-application-with-flask-npm-webpack-and-reactjs-be2294b111bd)
-
-=======
->>>>>>> 479713fb0f50296776bf11485882c4de437966c7
 ## Instructions
 Below are the installing and running procedues
 ### Installing
